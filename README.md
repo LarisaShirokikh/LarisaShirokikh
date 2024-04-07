@@ -5,17 +5,19 @@
   <a href="https://www.linkedin.com/in/larisa-shirokikh-4b7b5b279/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-youtube-URL" align="center">
-    <img src="https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
+
   <a href="https://t.me/LoraSher" align="center">
     <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+
+  
+![](https://komarev.com/ghpvc/?username=LarisaShirokikh&style=flat-square&color=green&label=PROFILE+VIEWS&style=flat)
 </div>
 
-<div id="badges" align="center">
-<img src="![](https://komarev.com/ghpvc/?username=LarisaShirokikh&style=flat-square&color=blue&label=PROFILE+VIEWS)"/>
-</div>
+
+
+
+
 
 <h1 align="center">
   hey there
