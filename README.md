@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/larisa-shirokikh-4b7b5b279/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL" align="center">
+<!--   <a href="your-youtube-URL" align="center">
     <img src="https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL" align="center">
+  </a> -->
+  <a href="https://t.me/LoraSher" align="center">
     <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -38,7 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👯 I’m looking to collaborate on open-source projects that promote sustainability and social impact.
 - 🤔 I’m looking for help with mastering containerization and deployment strategies using Kubernetes.
 - 💬 Ask me about my experience collaborative development workflows.
-- 📫 How to reach me: Feel free to connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larisa-shirokikh-4b7b5b279/)
+- 📫 How to reach me: Feel free to connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/LoraSher)
 - ⚡ Fun fact: I'm an avid hiker.
 
 ---
